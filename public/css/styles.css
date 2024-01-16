@@ -565,6 +565,10 @@ a {
   }
 }
 
+.relative {
+  position: relative;
+}
+
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -588,6 +592,10 @@ a {
 
 .h-1 {
   height: 0.25rem;
+}
+
+.h-128 {
+  height: 32rem;
 }
 
 .w-24 {
